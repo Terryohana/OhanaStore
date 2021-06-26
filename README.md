@@ -1,6 +1,5 @@
-# MDC-100 Series of Codelabs
+# OhanaStore/UI
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A user interface written in flutter for online stores
